@@ -2,7 +2,7 @@
 
 ## Overview
 
-Machine Build for Workstation System. Asus WS 621E Sage Motherboard with Dual Xeon CPU and 12 DDR4 ECC RAM Slots. Additionally M.2 SSD in the Motherboard to install Operating System. Corsair 900D 15 3.5" HDD slots, and 4 5.25" Disk Drives. The 5.25" Disk Drives can be converted to 4 2.5" SSD. So 16 2.5" SSD.
+Machine Build for Workstation System. Asus WS 621E Sage Motherboard with Dual Xeon CPU and 12 DDR4 ECC RAM Slots, 784GB of RAM is limit for this system. Additionally M.2 SSD in the Motherboard to install Operating System. Corsair 900D 15 3.5" HDD slots, and 4 5.25" Disk Drives. The 5.25" Disk Drives can be converted to 4 2.5" SSD. So 16 2.5" SSD.
 
 ## Inital Build
 
